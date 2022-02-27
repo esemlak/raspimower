@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RasPiMower</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <!-- Strings used for fragments for navigation -->
+
+
+</resources>
